@@ -1,0 +1,12 @@
+{
+  "token": "OTgxOTkxNDU2NjI3NjM0MTg2.GylUj-.-O2_A2nCZRnmBPiuZZ68-eDO3ioJnAANqiKyOU",
+  "application_id": 981991456627634186,
+  "prefix": "=",
+  "db": "mysqldb.db",
+  "delete_after": {
+    "command": 10,
+    "error": 5
+  },
+  "admin_roles": [],
+  "debug_channel": 0
+}

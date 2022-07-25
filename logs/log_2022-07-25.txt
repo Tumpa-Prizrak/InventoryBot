@@ -1,0 +1,15 @@
+
+[25-07-2022 09:28:43] [READY]: Logged in as GuildedBot#1487(ID: 981991456627634186)
+[25-07-2022 09:28:43] [VOICE]: Checked voice activity.
+[25-07-2022 09:33:38] [READY]: Logged in as GuildedBot#1487(ID: 981991456627634186)
+[25-07-2022 09:33:38] [VOICE]: Checked voice activity.
+[25-07-2022 09:50:48] [ERROR]: no such column: name
+[25-07-2022 09:50:49] [ERROR]: no such column: name
+[25-07-2022 09:55:36] [ERROR]: no such column: name
+[25-07-2022 09:55:37] [ERROR]: no such column: name
+[25-07-2022 10:05:11] [READY]: Logged in as GuildedBot#1487(ID: 981991456627634186)
+[25-07-2022 10:52:56] [READY]: Logged in as GuildedBot#1487(ID: 981991456627634186)
+[25-07-2022 10:59:34] [READY]: Logged in as GuildedBot#1487(ID: 981991456627634186)
+[25-07-2022 11:00:26] [READY]: Logged in as GuildedBot#1487(ID: 981991456627634186)
+[25-07-2022 11:01:25] [READY]: Logged in as GuildedBot#1487(ID: 981991456627634186)
+[25-07-2022 11:02:37] [READY]: Logged in as GuildedBot#1487(ID: 981991456627634186)
